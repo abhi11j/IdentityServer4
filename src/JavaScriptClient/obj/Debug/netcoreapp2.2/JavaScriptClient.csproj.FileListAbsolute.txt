@@ -1,0 +1,14 @@
+C:\MyWorkItem\quickstart\src\JavaScriptClient\bin\Debug\netcoreapp2.2\JavaScriptClient.deps.json
+C:\MyWorkItem\quickstart\src\JavaScriptClient\bin\Debug\netcoreapp2.2\JavaScriptClient.runtimeconfig.json
+C:\MyWorkItem\quickstart\src\JavaScriptClient\bin\Debug\netcoreapp2.2\JavaScriptClient.runtimeconfig.dev.json
+C:\MyWorkItem\quickstart\src\JavaScriptClient\bin\Debug\netcoreapp2.2\JavaScriptClient.dll
+C:\MyWorkItem\quickstart\src\JavaScriptClient\bin\Debug\netcoreapp2.2\JavaScriptClient.pdb
+C:\MyWorkItem\quickstart\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.csprojAssemblyReference.cache
+C:\MyWorkItem\quickstart\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.csproj.CoreCompileInputs.cache
+C:\MyWorkItem\quickstart\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.RazorAssemblyInfo.cache
+C:\MyWorkItem\quickstart\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.RazorAssemblyInfo.cs
+C:\MyWorkItem\quickstart\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.AssemblyInfoInputs.cache
+C:\MyWorkItem\quickstart\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.AssemblyInfo.cs
+C:\MyWorkItem\quickstart\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.RazorTargetAssemblyInfo.cache
+C:\MyWorkItem\quickstart\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.dll
+C:\MyWorkItem\quickstart\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.pdb

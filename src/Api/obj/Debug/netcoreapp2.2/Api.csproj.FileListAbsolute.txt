@@ -1,0 +1,14 @@
+C:\MyWorkItem\quickstart\src\Api\bin\Debug\netcoreapp2.2\Api.deps.json
+C:\MyWorkItem\quickstart\src\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.json
+C:\MyWorkItem\quickstart\src\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.dev.json
+C:\MyWorkItem\quickstart\src\Api\bin\Debug\netcoreapp2.2\Api.dll
+C:\MyWorkItem\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.csprojAssemblyReference.cache
+C:\MyWorkItem\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.csproj.CoreCompileInputs.cache
+C:\MyWorkItem\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cache
+C:\MyWorkItem\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cs
+C:\MyWorkItem\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfoInputs.cache
+C:\MyWorkItem\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfo.cs
+C:\MyWorkItem\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.RazorTargetAssemblyInfo.cache
+C:\MyWorkItem\quickstart\src\Api\bin\Debug\netcoreapp2.2\Api.pdb
+C:\MyWorkItem\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.dll
+C:\MyWorkItem\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.pdb
